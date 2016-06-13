@@ -1,4 +1,4 @@
-Read Loader Section of:
+Read Babel Section of:
 
 http://www.pro-react.com/materials/appendixA/
 
